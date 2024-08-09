@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Diploma\\C#\\OOP\\Route\\Advanced\\04 -Events\\EventsDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{785EF00A-8FFB-4D53-BF7A-26255DA569A5}|Events\\Events.csproj|d:\\diploma\\c#\\oop\\route\\advanced\\04 -events\\eventsdemo\\events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785EF00A-8FFB-4D53-BF7A-26255DA569A5}|Events\\Events.csproj|solutionrelative:events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6BFB0F-CC76-4CB3-8EBF-FAAC3F3E1C00}|EventsLib\\EventsLib.csproj|d:\\diploma\\c#\\oop\\route\\advanced\\04 -events\\eventsdemo\\eventslib\\assignmentemployee\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6BFB0F-CC76-4CB3-8EBF-FAAC3F3E1C00}|EventsLib\\EventsLib.csproj|solutionrelative:eventslib\\assignmentemployee\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3A4973-4EC8-4121-974F-B3D46B971736}|Assignment\\Assignment.csproj|d:\\diploma\\c#\\oop\\route\\advanced\\04 -events\\eventsdemo\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3A4973-4EC8-4121-974F-B3D46B971736}|Assignment\\Assignment.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6BFB0F-CC76-4CB3-8EBF-FAAC3F3E1C00}|EventsLib\\EventsLib.csproj|d:\\diploma\\c#\\oop\\route\\advanced\\04 -events\\eventsdemo\\eventslib\\assignmentemployee\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6BFB0F-CC76-4CB3-8EBF-FAAC3F3E1C00}|EventsLib\\EventsLib.csproj|solutionrelative:eventslib\\assignmentemployee\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6BFB0F-CC76-4CB3-8EBF-FAAC3F3E1C00}|EventsLib\\EventsLib.csproj|d:\\diploma\\c#\\oop\\route\\advanced\\04 -events\\eventsdemo\\eventslib\\assignmentemployee\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6BFB0F-CC76-4CB3-8EBF-FAAC3F3E1C00}|EventsLib\\EventsLib.csproj|solutionrelative:eventslib\\assignmentemployee\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Diploma\\C#\\OOP\\Route\\Advanced\\04 -Events\\EventsDemo\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment\\Program.cs",
+              "ToolTip": "D:\\Diploma\\C#\\OOP\\Route\\Advanced\\04 -Events\\EventsDemo\\Assignment\\Program.cs",
+              "RelativeToolTip": "Assignment\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:21:28.262Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Diploma\\C#\\OOP\\Route\\Advanced\\04 -Events\\EventsDemo\\Events\\Program.cs",
+              "RelativeDocumentMoniker": "Events\\Program.cs",
+              "ToolTip": "D:\\Diploma\\C#\\OOP\\Route\\Advanced\\04 -Events\\EventsDemo\\Events\\Program.cs",
+              "RelativeToolTip": "Events\\Program.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAI4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:20:50.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Diploma\\C#\\OOP\\Route\\Advanced\\04 -Events\\EventsDemo\\EventsLib\\AssignmentEmployee\\Department.cs",
+              "RelativeDocumentMoniker": "EventsLib\\AssignmentEmployee\\Department.cs",
+              "ToolTip": "D:\\Diploma\\C#\\OOP\\Route\\Advanced\\04 -Events\\EventsDemo\\EventsLib\\AssignmentEmployee\\Department.cs",
+              "RelativeToolTip": "EventsLib\\AssignmentEmployee\\Department.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwDEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:20:29.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Club.cs",
+              "DocumentMoniker": "D:\\Diploma\\C#\\OOP\\Route\\Advanced\\04 -Events\\EventsDemo\\EventsLib\\AssignmentEmployee\\Club.cs",
+              "RelativeDocumentMoniker": "EventsLib\\AssignmentEmployee\\Club.cs",
+              "ToolTip": "D:\\Diploma\\C#\\OOP\\Route\\Advanced\\04 -Events\\EventsDemo\\EventsLib\\AssignmentEmployee\\Club.cs",
+              "RelativeToolTip": "EventsLib\\AssignmentEmployee\\Club.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCYAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:49:15.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Diploma\\C#\\OOP\\Route\\Advanced\\04 -Events\\EventsDemo\\EventsLib\\AssignmentEmployee\\Employee.cs",
+              "RelativeDocumentMoniker": "EventsLib\\AssignmentEmployee\\Employee.cs",
+              "ToolTip": "D:\\Diploma\\C#\\OOP\\Route\\Advanced\\04 -Events\\EventsDemo\\EventsLib\\AssignmentEmployee\\Employee.cs",
+              "RelativeToolTip": "EventsLib\\AssignmentEmployee\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:30:03.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
